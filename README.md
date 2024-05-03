@@ -1,6 +1,6 @@
 # Module-5-Challenge
 
-Helllo, in this repository you will find my homework for the Module 4 Challenge. This homework has been made with the help of differents sources: Tutor, Xpert Learning Assistant, previous activities and myself Amanda Lor. I also used ChatGPT to enhance my analysis. 
+Helllo, in this repository you will find my homework for the Module 5 Challenge. This homework has been made with the help of differents sources: Tutor, Xpert Learning Assistant, previous activities and myself Amanda Lor. I also used ChatGPT to enhance my analysis. 
 
 Background:
 
